@@ -1,0 +1,14 @@
+{
+  "name": "express-mongo-crud",
+  "version": "1.0.0",
+  "description": "Proyecto de practica de mongodb y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
